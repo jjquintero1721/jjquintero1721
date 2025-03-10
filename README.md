@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 🎓 Software Engineering Student
 - 💻 Web & Backend Developer
-- 🔐 Exploring Cybersecurity & Game Dev
+- 🔐 Exploring Cybersecurity - Game Dev - Fronted - Backend
 - 🌍 Based in [Armenia, Quindío](https://www.armenia.gov.co)
 
 ### 🔧 Tech Stack
