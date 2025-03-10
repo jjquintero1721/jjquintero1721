@@ -9,7 +9,7 @@
 - 🌍 Based in [Armenia, Quindío](https://www.armenia.gov.co)
 
 ### 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,css,idea,python,VScode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,css,idea,python,vs&theme=light)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjquintero1721&show_icons=true&theme=dark)
