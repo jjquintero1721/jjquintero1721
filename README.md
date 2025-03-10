@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-![Banner](https://source.unsplash.com/1200x400/?technology,code)
 
 ### 🚀 About Me
 - 🎓 Software Engineering Student
